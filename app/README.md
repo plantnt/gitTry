@@ -5,3 +5,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## DESCRIPCIÓN DEL PROYECTO
 
 Proyecto de prueba, hecho para acostumbrarnos a github y a pushear cosas.
+
+## REQUERIMIENTOS
+
+- npm i
+- npm i bootstrap-icons
