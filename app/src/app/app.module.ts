@@ -9,6 +9,7 @@ import { CatalogoComponent } from './pages/catalogo/catalogo.component';
 import { CarritoComponent } from './pages/carrito/carrito.component';
 import { PerfilComponent } from './pages/perfil/perfil.component';
 import { FantasmagoricoComponent } from './fantasmagorico/fantasmagorico.component';
+import { FormitoComponent } from './formito/formito.component';
 
 @NgModule({
   declarations: [
@@ -17,7 +18,8 @@ import { FantasmagoricoComponent } from './fantasmagorico/fantasmagorico.compone
     CatalogoComponent,
     CarritoComponent,
     PerfilComponent,
-    FantasmagoricoComponent 
+    FantasmagoricoComponent,
+    FormitoComponent 
   ],
   imports: [
     FormsModule,
